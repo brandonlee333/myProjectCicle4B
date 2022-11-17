@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "512525746564",
+    "project_id": "borrar-b9fcc",
+    "storage_bucket": "borrar-b9fcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512525746564:android:9136b510094c8508055dd1",
+        "android_client_info": {
+          "package_name": "com.pepe.sdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512525746564-622bv0smg9d188b3eusd5h69hact825u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnWYyLmGsHeGVI5m9314QVfrYt7y45D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512525746564-622bv0smg9d188b3eusd5h69hact825u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512525746564:android:8e9c9864b3d1f2eb055dd1",
+        "android_client_info": {
+          "package_name": "com.ucaldas.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512525746564-622bv0smg9d188b3eusd5h69hact825u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnWYyLmGsHeGVI5m9314QVfrYt7y45D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512525746564-622bv0smg9d188b3eusd5h69hact825u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

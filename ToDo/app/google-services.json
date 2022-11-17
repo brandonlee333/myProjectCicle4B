@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470322235842",
+    "project_id": "cicle4firebase",
+    "storage_bucket": "cicle4firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470322235842:android:528ab4687e7c410d7f2e5b",
+        "android_client_info": {
+          "package_name": "com.ucaldas.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470322235842-2a1brpcae603pbs0gb7gdcrhgr927kqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeJpxkpqP54uSP3g-eJcxFCIF-auXl2Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470322235842-2a1brpcae603pbs0gb7gdcrhgr927kqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDo</string>
+
+
+
+    <string name="txUsername">Username</string>
+    <string name="txPass">Password</string>
+    <string name="txHintPass">Your Password</string>
+    <string name="txHintMail">mail@domain.com</string>
+    <string name="txLogin">LOGIN</string>
+    <string name="txWelcome">WELCOME</string>
+    <string name="txBrandon">BRANDON</string>
+    <string name="txIntro">Introduction</string>
+    <string name="txLoremIpsum">Is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="txClass">Class 1</string>
+    <string name="txAction_search">Search</string>
+    <string name="txAction_settings">Settings</string>
+    <string name="txAction_logout">LogOut</string>
+    <string name="txFab">Here is a SnackBar</string>
+    <string name="title_activity_intro">APP_Circle4</string>
+    <string name="txt_about">About</string>
+
+</resources>

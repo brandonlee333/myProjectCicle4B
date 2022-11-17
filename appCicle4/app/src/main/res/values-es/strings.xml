@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">appCiclo4</string>
+    <string name="txUsername">Nombre de Usuario</string>
+    <string name="txPass">Contrasena</string>
+    <string name="txHintPass">Ingresa tu contrasena</string>
+    <string name="txHintMail">nombreEmail@dominio.com</string>
+    <string name="txLogin">INGRESAR</string>
+    <string name="txWelcome">BIENVENIDO</string>
+    <string name="txBrandon">BRANDON</string>
+    <string name="txIntro">Introduccion</string>
+    <string name="txLoremIpsum">La primera secuencia del Lorem ipsum es tan conocida y utilizada actualmente, que muchos programas DTP pueden generar textos simulados que empiecen con la secuencia.</string>
+    <string name="txClass">Clase 1</string>
+    <string name="txAction_search">Buscar</string>
+    <string name="txAction_settings">Configuracion</string>
+    <string name="txAction_logout">Cerrar Sesion</string>
+    <string name="txFab">Ha presionado el FloatingActionButton</string>
+
+</resources>

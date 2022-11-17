@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/myNav_graph"
+    app:startDestination="@id/nav_intro">
+
+
+
+    <fragment
+        android:id="@+id/nav_intro"
+        android:name="com.ucaldas.todo.FragmentIntro"
+        android:label="APP_HITMAN"
+        tools:layout="@layout/fragment_intro" />
+    <fragment
+        android:id="@+id/nav_todo"
+        android:name="com.ucaldas.todo.ToDoFragment"
+        android:label="Task to Do"
+        tools:layout="@layout/fragment_to_do" />
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.ucaldas.todo.AboutFragment"
+        android:label="@string/txt_about"
+        tools:layout="@layout/fragment_about"></fragment>
+
+</navigation>
